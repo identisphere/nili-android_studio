@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/Hallelujah.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/empty.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/jet plane.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/jquery-1.11.1.js" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/js" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/main.js" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/neshel hanachash.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/nothing_compares_to_you.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/pics" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/practice.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/reckoning song.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/style.css" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/time of your life- no tabs.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/veeych shelo.html" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/Commands.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/ConnectionManager.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/Globals.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/MainActivity.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/Operator.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/ReadData.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/user/nili2/WebAppInterface.java" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/auto.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/backward.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/forward.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/manual.png" charset="windows-1255" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
